@@ -56,3 +56,9 @@ wandb/
 # OS
 .DS_Store
 Thumbs.db
+
+# Claude Code / AI assistant files
+CLAUDE.md
+QUICK_START.md
+.claude/
+docs/superpowers/
