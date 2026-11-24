@@ -325,9 +325,10 @@ Fresh noise is sampled each training epoch.
 
 If you use this code, please cite:
 ```
-[Your paper citation here]
+A deep learning algorithm for black hole spin estimation using hot spot secondary images
+https://doi.org/10.1051/0004-6361/202662651 
 ```
 
 ## Contact
 
-For questions or issues, contact [Your name/email]
+For questions or issues, contact ralbe@dtu.dk or ayfantis@iaa.csic.es
